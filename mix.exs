@@ -3,7 +3,7 @@ defmodule PokemonParser.MixProject do
 
   def project do
     [
-      app: :pokemon_Parser,
+      app: :pokemon_parser,
       version: "0.1.0",
       elixir: "~> 1.9",
       start_permanent: Mix.env() == :prod,
